@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Server #1",
+    "subtitle": "192.168.178.62",
+    "url": "http://192.168.178.62",
+    "icon": "server"
+  },
+  {
+    "title": "Discord Status",
+    "subtitle": "Live Monitor",
+    "url": "https://discord-status-benjamin.netlify.app",
+    "icon": "activity"
+  }
+]
