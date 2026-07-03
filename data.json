@@ -1,5 +1,7 @@
 [
-  { "category": "Netzwerk", "title": "Server #1", "url": "http://192.168.178.62", "icon": "server" },
-  { "category": "Netzwerk", "title": "Tenda Wi-Fi", "url": "http://192.168.0.1", "icon": "wifi" },
-  { "category": "Projekte", "title": "Discord Status", "url": "https://discord-status-benjamin.netlify.app", "icon": "activity" }
+  { "category": "Hardware", "title": "Server #1", "subtitle": "192.168.178.62", "url": "http://192.168.178.62", "icon": "server" },
+  { "category": "Hardware", "title": "Server #2", "subtitle": "192.168.178.60", "url": "http://192.168.178.60", "icon": "hard-drive" },
+  { "category": "Hardware", "title": "Tenda Wi-Fi", "subtitle": "Router Setup", "url": "http://192.168.0.1", "icon": "wifi" },
+  { "category": "Projekte", "title": "Discord Status", "subtitle": "Live Monitor", "url": "https://discord-status-benjamin.netlify.app", "icon": "activity" },
+  { "category": "Projekte", "title": "Tampermonkey", "subtitle": "User-Skripte", "url": "#", "icon": "code" }
 ]
