@@ -6,9 +6,27 @@
     "icon": "server"
   },
   {
+    "title": "Server #2",
+    "subtitle": "192.168.178.60",
+    "url": "http://192.168.178.60",
+    "icon": "hard-drive"
+  },
+  {
+    "title": "Tenda Wi-Fi",
+    "subtitle": "Router Setup",
+    "url": "http://192.168.0.1",
+    "icon": "wifi"
+  },
+  {
     "title": "Discord Status",
     "subtitle": "Live Monitor",
     "url": "https://discord-status-benjamin.netlify.app",
     "icon": "activity"
+  },
+  {
+    "title": "Tampermonkey",
+    "subtitle": "User-Skripte",
+    "url": "#",
+    "icon": "code-2"
   }
 ]
