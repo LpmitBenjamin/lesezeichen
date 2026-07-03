@@ -1,7 +1,21 @@
 [
-  { "category": "Hardware", "title": "Server #1", "subtitle": "192.168.178.62", "url": "http://192.168.178.62", "icon": "server" },
-  { "category": "Hardware", "title": "Server #2", "subtitle": "192.168.178.60", "url": "http://192.168.178.60", "icon": "hard-drive" },
-  { "category": "Hardware", "title": "Tenda Wi-Fi", "subtitle": "Router Setup", "url": "http://192.168.0.1", "icon": "wifi" },
-  { "category": "Projekte", "title": "Discord Status", "subtitle": "Live Monitor", "url": "https://discord-status-benjamin.netlify.app", "icon": "activity" },
-  { "category": "Projekte", "title": "Tampermonkey", "subtitle": "User-Skripte", "url": "#", "icon": "code" }
+  { "category": "Tools", "title": "Discord Status", "subtitle": "Live Monitor", "url": "https://discord-status-benjamin.netlify.app", "icon": "activity" },
+  { "category": "Tools", "title": "Tools", "subtitle": "Live Monitor", "url": "https://benjaminapi.netlify.app/", "icon": "activity" },
+
+  { "category": "Zuhause", "title": "Server Handy", "subtitle": "192.168.178.62", "url": "http://192.168.178.62:8080", "icon": "folder-tree" },
+  { "category": "Zuhause", "title": "Server Tablet", "subtitle": "192.168.178.60", "url": "http://192.168.178.60:8080", "icon": "folder-tree" },
+
+  { "category": "Router", "title": "Server Handy", "subtitle": "192.168.0.2", "url": "http://192.168.0.2:8080", "icon": "folder-tree" },
+  { "category": "Router", "title": "Server Tablet", "subtitle": "192.168.0.3", "url": "http://192.168.0.3:8080", "icon": "folder-tree" },
+  { "category": "Router", "title": "Tenda Wi-Fi", "subtitle": "Router Setup", "url": "http://192.168.0.1", "icon": "router" },
+
+
+
+
+
+
+  
+
+  
+  { "category": "Einstellungen", "title": "Tampermonkey", "subtitle": "User-Skripte", "url": "moz-extension://10021a5a-36c3-48b4-bfcf-f7f66dd9d591/options.html#nav=dashboard", "icon": "code" }
 ]
