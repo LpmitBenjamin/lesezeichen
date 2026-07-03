@@ -1,6 +1,6 @@
 [
   { "category": "Tools", "title": "Discord Status", "subtitle": "Live Monitor", "url": "https://discord-status-benjamin.netlify.app", "icon": "activity" },
-  { "category": "Tools", "title": "Tools", "subtitle": "Live Monitor", "url": "https://benjaminapi.netlify.app/", "icon": "activity" },
+  { "category": "Tools", "title": "Tools", "subtitle": "Tools", "url": "https://benjaminapi.netlify.app/", "icon": "activity" },
 
   { "category": "Zuhause", "title": "Server Handy", "subtitle": "192.168.178.62", "url": "http://192.168.178.62:8080", "icon": "folder-tree" },
   { "category": "Zuhause", "title": "Server Tablet", "subtitle": "192.168.178.60", "url": "http://192.168.178.60:8080", "icon": "folder-tree" },
