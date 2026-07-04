@@ -5,18 +5,11 @@
   { "category": "Zuhause", "title": "Server Handy", "subtitle": "192.168.178.62", "url": "http://192.168.178.62:8080", "icon": "folder-tree" },
   { "category": "Zuhause", "title": "Server Tablet", "subtitle": "192.168.178.60", "url": "http://192.168.178.60:8080", "icon": "folder-tree" },
 
-  { "category": "Router", "title": "Server Handy", "subtitle": "192.168.0.2", "url": "http://192.168.0.2:8080", "icon": "folder-tree" },
-  { "category": "Router", "title": "Server Tablet", "subtitle": "192.168.0.3", "url": "http://192.168.0.3:8080", "icon": "folder-tree" },
   { "category": "Router", "title": "Tenda Wi-Fi", "subtitle": "Router Setup", "url": "http://192.168.0.1", "icon": "router" },
+  { "category": "Router", "title": "Server Handy", "subtitle": "192.168.0.2", "url": "http://192.168.0.2:8080", "icon": "folder-tree" },
+  { "category": "Router", "title": "Server Tablet", "subtitle": "192.168.0.3", "url": "http://192.168.0.3:8080", "icon": "folder-tree" }
 
 
 
 
-
-
-  
-
-
-  { "category": "Einstellungen", "title": "Tampermonkey", "subtitle": "Tablet", "url": "moz-extension://ba7cbcc6-2391-4f80-8376-a35e2619c791/options.html#nav=dashboard", "icon": "code" }, 
-  { "category": "Einstellungen", "title": "Tampermonkey", "subtitle": "Handy", "url": "moz-extension://10021a5a-36c3-48b4-bfcf-f7f66dd9d591/options.html#nav=dashboard", "icon": "code" }
 ]
