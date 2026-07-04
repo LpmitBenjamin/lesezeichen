@@ -1,6 +1,6 @@
 [
-  { "category": "Tools", "title": "Discord Status", "subtitle": "Live Monitor", "url": "https://discord-status-benjamin.netlify.app", "icon": "activity" },
-  { "category": "Tools", "title": "Tools", "subtitle": "Tools", "url": "https://benjaminapi.netlify.app/", "icon": "activity" },
+  { "category": "Tools", "title": "Discord Status", "subtitle": "<br>Live Monitor", "url": "https://discord-status-benjamin.netlify.app", "icon": "activity" },
+  { "category": "Tools", "title": "<br>Tools", "subtitle": "<br>Tools", "url": "https://benjaminapi.netlify.app/", "icon": "activity" },
 
   { "category": "Zuhause", "title": "Server Handy", "subtitle": "192.168.178.62", "url": "http://192.168.178.62:8080", "icon": "folder-tree" },
   { "category": "Zuhause", "title": "Server Tablet", "subtitle": "192.168.178.60", "url": "http://192.168.178.60:8080", "icon": "folder-tree" },
@@ -16,6 +16,7 @@
 
   
 
-  
-  { "category": "Einstellungen", "title": "Tampermonkey", "subtitle": "User-Skripte", "url": "moz-extension://10021a5a-36c3-48b4-bfcf-f7f66dd9d591/options.html#nav=dashboard", "icon": "code" }
+
+  { "category": "Einstellungen", "title": "Tampermonkey", "subtitle": "Tablet", "url": "moz-extension://ba7cbcc6-2391-4f80-8376-a35e2619c791/options.html#nav=dashboard", "icon": "code" }, 
+  { "category": "Einstellungen", "title": "Tampermonkey", "subtitle": "Handy", "url": "moz-extension://10021a5a-36c3-48b4-bfcf-f7f66dd9d591/options.html#nav=dashboard", "icon": "code" }
 ]
