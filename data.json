@@ -7,9 +7,7 @@
 
   { "category": "Router", "title": "Tenda Wi-Fi", "subtitle": "Router Setup", "url": "http://192.168.0.1", "icon": "router" },
   { "category": "Router", "title": "Server Handy", "subtitle": "192.168.0.2", "url": "http://192.168.0.2:8080", "icon": "folder-tree" },
-  { "category": "Router", "title": "Server Tablet", "subtitle": "192.168.0.3", "url": "http://192.168.0.3:8080", "icon": "folder-tree" }
+  { "category": "Router", "title": "Server Tablet", "subtitle": "192.168.0.3", "url": "http://192.168.0.3:8080", "icon": "folder-tree" },
 
-
-
-
+  { "category": "Nützliche Seiten", "title": "Tageszähler", "subtitle": "Anzahl von Jahren, Monaten und Tagen zwischen zwei Daten berechnen.", "url": "www.timeanddate.de/datum/zeitspanne", "icon": "folder-tree" }
 ]
