@@ -3,12 +3,12 @@
   { "category": "Tools", "title": "Tools", "subtitle": "Tools", "url": "https://benjaminapi.netlify.app/", "icon": "activity" },
 
   { "category": "Zuhause", "title": "Server Handy", "subtitle": "192.168.178.62", "url": "http://192.168.178.62:8080", "icon": "folder-tree" },
-  { "category": "Zuhause", "title": "Smart Dashboard", "subtitle": "Dashboard", "url": "http://192.168.178.62:8080/Dashboard.html", "icon": "chart-column-stacked" },
+  { "category": "Zuhause", "title": "Dashboard", "subtitle": "Dashboard", "url": "http://192.168.178.62:8080/Dashboard.html", "icon": "chart-column-stacked" },
   { "category": "Zuhause", "title": "Server Tablet", "subtitle": "192.168.178.60", "url": "http://192.168.178.60:8080", "icon": "folder-tree" },
 
   { "category": "Router", "title": "Tenda Wi-Fi", "subtitle": "Router Setup", "url": "http://192.168.0.1", "icon": "router" },
   { "category": "Router", "title": "Server Handy", "subtitle": "192.168.0.2", "url": "http://192.168.0.2:8080", "icon": "folder-tree" },
   { "category": "Router", "title": "Server Tablet", "subtitle": "192.168.0.3", "url": "http://192.168.0.3:8080", "icon": "folder-tree" },
 
-  { "category": "Nützliche Seiten", "title": "Tageszähler", "subtitle": "Datum Rechner", "url": "www.timeanddate.de/datum/zeitspanne", "icon": "calendar" }
+  { "category": "Nützliche Seiten", "title": "Tageszähler", "subtitle": "Datum Rechner", "url": "https://www.timeanddate.de/datum/zeitspanne", "icon": "calendar" }
 ]
