@@ -9,8 +9,8 @@
   { "category": "Router", "title": "Server Handy", "subtitle": "192.168.0.2", "url": "http://192.168.0.2:8080", "icon": "folder-tree" },
   { "category": "Router", "title": "Server Tablet", "subtitle": "192.168.0.3", "url": "http://192.168.0.3:8080", "icon": "folder-tree" },
 
-  { "category": "Lukas", "title": "Server Handy", "subtitle": "http://192.168.2.52", "url": "http://192.168.2.52:8080", "icon": "folder-tree" },
-  { "category": "Lukas", "title": "Server Tablet", "subtitle": "http://192.168.2.39", "url": "http://192.168.2.39:8080", "icon": "folder-tree" },
+  { "category": "Lukas", "title": "Server Handy", "subtitle": "192.168.2.52", "url": "http://192.168.2.52:8080", "icon": "folder-tree" },
+  { "category": "Lukas", "title": "Server Tablet", "subtitle": "192.168.2.39", "url": "http://192.168.2.39:8080", "icon": "folder-tree" },
   
   { "category": "Nützliche Seiten", "title": "Tageszähler", "subtitle": "Datum Rechner", "url": "https://www.timeanddate.de/datum/zeitspanne", "icon": "calendar" },
   { "category": "Nützliche Seiten", "title": "Tellonym", "subtitle": "Tellonym Profil", "url": "https://tellonym.me/benjamindamm12", "icon": "users" }
