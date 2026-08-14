@@ -6,7 +6,7 @@
 // @author       Benjamin
 // @match        http://192.168.178.62:8080/Dashboard.html
 // @match        http://192.168.178.62:8080/Yazio.html
-// @match        http://192.168.178.60:8080/LSS%20Credits.html
+// @match        http://192.168.178.60:8080/Leitstellenspiel/LSS%20Credits.html
 // @match        http://192.168.178.60:8080/kalender_timeline.html
 // @match        http://192.168.178.60:8080/Pengu.html
 // @match        http://192.168.178.60:8080/Spritkosten.html
